@@ -1,0 +1,7 @@
+name=Arp
+author=Tooz
+description=Arpeggiator
+bundleID=com.tooz.Arpeggiator
+version=1.0
+buildNumber=100
+imagePath=SystemAssets
